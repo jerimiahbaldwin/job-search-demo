@@ -1,0 +1,4 @@
+.*
+dbdata
+*.rest
+!.env.example
